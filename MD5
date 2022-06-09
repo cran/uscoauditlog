@@ -1,0 +1,10 @@
+908f29d8818620ae80a6388b171ee4a5 *DESCRIPTION
+cd8bfd01c41f7b3a5edba47077e7e06e *NAMESPACE
+026cfdcf429fae190c2c78db83ec1f8b *R/uscoauditlog.R
+aa25fddead62b4164cae67e18a586c7c *man/clean_data_to_dataframe.Rd
+bd53e823a28ee7cc9949c046d4ce2420 *man/clean_data_to_excel.Rd
+30450947ab7cdf77b1a27794c2943717 *man/clean_format_all.Rd
+55cf6e900da3a65546635129616edc5b *man/clean_str.Rd
+3cca4fc65e32c9ad702a6055e2699ccc *man/format_from_dataframe.Rd
+365822ee44990352aa4cdc56eeff44f7 *man/format_from_excel.Rd
+b4af5629187cc0532c408f168aab7ff7 *man/support_function.Rd
